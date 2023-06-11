@@ -12,4 +12,14 @@
     <string name="menu_home">Home</string>
     <string name="menu_gallery">Gallery</string>
     <string name="menu_slideshow">Slideshow</string>
+    <string name="menu_listado">Listado</string>
+    <string name="menu_registro">Registro</string>
+    <string name="menu_mascota">Mascota</string>
+
+    <string name="val_titulo_registro">Registro</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="valtxtcurso">Ingrese el nombre del curso</string>
+    <string name="valtxtnota">Ingrese la nota</string>
+    <string name="valbtnguardarcurso">Guardar</string>
 </resources>

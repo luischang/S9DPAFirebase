@@ -38,7 +38,7 @@
         android:layout_height="wrap_content"
         android:layout_marginBottom="26dp"
         android:ems="10"
-        android:inputType="textPersonName"
+        android:inputType="textPassword"
         android:minHeight="48dp"
         app:layout_constraintBottom_toTopOf="@+id/btnLogin"
         app:layout_constraintStart_toStartOf="@+id/txtEmail"
